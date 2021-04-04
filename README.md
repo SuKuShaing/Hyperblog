@@ -11,5 +11,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 - Trucos muy locos del profesor
 - Y las personalidades múltiples de Freddy
 - Creado por el increible grupo de Sebastian y todas sus versiones
+- Incluye ejemplo en Windows, Linux y Mac
 
 Este es un Readm.md de practica
